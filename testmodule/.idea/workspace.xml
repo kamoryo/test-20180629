@@ -12,7 +12,7 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="testModule.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testModule.py">
+        <entry file="file://$PROJECT_DIR$/TestModule/testModule.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
@@ -21,12 +21,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="testpro.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/testpro.py">
+      <file leaf-file-name="testpro.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/TestModule/testpro.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TransFeature.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/ExpModule/TransFeature.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -45,6 +57,8 @@
       <list>
         <option value="$PROJECT_DIR$/testModule.py" />
         <option value="$PROJECT_DIR$/testpro.py" />
+        <option value="$PROJECT_DIR$/TestModule/testpro.py" />
+        <option value="$PROJECT_DIR$/ExpModule/TransFeature.py" />
       </list>
     </option>
   </component>
@@ -75,6 +89,11 @@
               <item name="testmodule" type="b2602c69:ProjectViewProjectNode" />
               <item name="testmodule" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="testmodule" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testmodule" type="462c0819:PsiDirectoryNode" />
+              <item name="ExpModule" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -85,7 +104,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$USER_HOME$/PycharmProjects/rang100knocks" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.quicklists" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\RYO\git\test-20180629\test-20180629\testmodule\TestModule" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -112,7 +136,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="testmodule" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testModule.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\RYO\git\test-20180629\test-20180629\testmodule\TestModule\testModule.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -130,7 +154,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="testmodule" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testpro.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestModule/testpro.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,7 +218,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/testModule.py">
+    <entry file="file://$PROJECT_DIR$/TestModule/testModule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -203,7 +227,23 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/venv/Lib/abc.py" />
-    <entry file="file://$PROJECT_DIR$/testModule.py">
+    <entry file="file://$PROJECT_DIR$/TestModule/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestModule/testpro.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestModule/testModule.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
@@ -211,11 +251,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/testpro.py">
+    <entry file="file://$PROJECT_DIR$/ExpModule/TransFeature.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="17" lean-forward="true" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
-          <folding />
+        <state relative-caret-position="476">
+          <caret line="28" column="20" lean-forward="false" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
