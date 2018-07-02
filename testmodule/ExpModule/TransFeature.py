@@ -3,12 +3,12 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import scipy.fftpack as sf
 
-class transfeature:
+class TransFeature:
     rate = 200
     winwide = 2
     mov = 1
 
-    def __init__(self,wave,t):
+    def __init__(self, wave, t):
         self.data = wave
         self.time = t
 
@@ -33,10 +33,10 @@ class transfeature:
 
 if __name__ == "__main__":
 
-    x = np.arange(0,20,0.005)
+    x = np.arange(0, 20, 0.005)
     y = np.sin(20*2*np.pi*x)
 
-    tf = transfeature(y,20)
+    tf = TransFeature(y, 20)
     y2 = tf.stft()
 
     plt.plot(y2.T)
